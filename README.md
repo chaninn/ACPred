@@ -1,2 +1,2 @@
-# APE
-APE: Anticancer Peptide Efficient linear method
+# ACPred
+ACPred: A Sequence-Based Tool for Predicting Anticancer Peptides
